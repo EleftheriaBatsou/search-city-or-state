@@ -1,6 +1,8 @@
     html {
       box-sizing: border-box;
-      background:#ffc600;
+      background:#ffc600
+        url(https://images.pexels.com/photos/55608/pexels-photo-55608.jpeg?h=350&auto=compress);
+      background-size: cover;
       font-family:'helvetica neue';
       font-size: 20px;
       font-weight: 200;
